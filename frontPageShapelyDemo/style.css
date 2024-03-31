@@ -90,6 +90,8 @@ button,
   font-weight: 600;
   width: 200px;
   padding: 20px;
+  cursor: pointer;
+
 }
 
 .btn-sec:hover {
@@ -498,7 +500,6 @@ button,
 
 .section9 button:hover {
   background-color: #47389b;
-  cursor: pointer;
 }
 
 .section9 h1 {
